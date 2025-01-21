@@ -7,6 +7,8 @@
 
 ![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruanlucas42&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanlucas42&hide_progress=true)
+
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
