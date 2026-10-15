@@ -15,6 +15,17 @@ Estou direcionando meus estudos para **operações de segurança e análise de e
 - **Redes:** diagnóstico de conectividade e problemas relacionados a IP, DNS e DHCP.
 - **Ambiente hospitalar:** suporte aos usuários e ao funcionamento do sistema de gestão.
 
+## Tecnologias e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,java,git&theme=dark" alt="Linux, Windows, Python, Java e Git" />
+</p>
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-005CA5?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
 ## Projetos em destaque
 
 | Projeto | O que você encontra |
@@ -32,5 +43,9 @@ Estou direcionando meus estudos para **operações de segurança e análise de e
 - Prática na trilha **SOC Level 1 do TryHackMe**.
 
 ## Contato
+
+<a href="https://www.linkedin.com/in/ruan-silva-50042622b/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn de Ruan Lucas" width="40" height="40" /></a>
+&nbsp;
+<a href="mailto:rulucasilva13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Enviar e-mail para Ruan Lucas" width="40" height="40" /></a>
 
 [LinkedIn](https://www.linkedin.com/in/ruan-silva-50042622b/) · [E-mail](mailto:rulucasilva13@gmail.com)
