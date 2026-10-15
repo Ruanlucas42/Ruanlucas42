@@ -1,24 +1,36 @@
-### Olá! Eu sou o Ruan
+# Ruan Lucas
 
-Estudante de Sistemas de Informação (semestres finais) e Estagiário de TI, migrando para a área de **Segurança da Informação**, com foco em **SOC Analyst (N1)**.
+**Suporte e Infraestrutura de TI · Foco em Segurança da Informação e SOC**
 
-Hoje atuo com suporte a usuários, administração de Active Directory e Windows Server, troubleshooting de rede e gestão de sistema hospitalar - e uso essa vivência de infraestrutura como base para minha transição para cybersecurity.
+Sou estudante de Sistemas de Informação na Faculdade Presbiteriana Gammon, em fase final de graduação, e estagiário de TI na área da saúde.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-silva-50042622b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rulucasilva13@gmail.com)
+No dia a dia, trabalho com suporte técnico, Active Directory, Windows Server, diagnóstico de problemas de rede e suporte a sistema hospitalar. Essa experiência tem desenvolvido minha capacidade de investigar falhas, pesquisar soluções e lidar com problemas em ambientes reais.
 
-### Em foco agora
+Estou direcionando meus estudos para **operações de segurança e análise de eventos**, com foco em oportunidades de **Analista SOC N1**. Aqui compartilho laboratórios e projetos que fazem parte dessa formação.
 
-- Montando laboratório SIEM com **Wazuh** (servidor + agente rodando em Ubuntu, VirtualBox)
-- Estudando para o **CompTIA Security+ (SY0-701)**
-- Praticando análise de logs no Windows e Linux, **Wireshark/PCAP** e trilhas do TryHackMe (SOC Level 1)
+## Experiência prática
 
-### Algumas tecnologias que utilizo
+- **Suporte técnico:** investigação e resolução de problemas em estações Windows, softwares e periféricos.
+- **Infraestrutura:** atividades com Active Directory, Windows Server e estações em domínio.
+- **Redes:** diagnóstico de conectividade e problemas relacionados a IP, DNS e DHCP.
+- **Ambiente hospitalar:** suporte aos usuários e ao funcionamento do sistema de gestão.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img align="center" alt="windowsserver" src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img align="center" alt="wazuh" src="https://img.shields.io/badge/Wazuh-005CA5?style=for-the-badge&logo=wazuh&logoColor=white">
-    <img align="center" alt="wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-</div><br/>
+## Projetos em destaque
+
+| Projeto | O que você encontra |
+|---|---|
+| [SOC Lab — Wazuh](https://github.com/Ruanlucas42/soc-lab) | Laboratório de monitoramento de um endpoint Ubuntu, com registros de alertas e mapeamentos MITRE ATT&CK apresentados no Wazuh. |
+| [Coordenação em Sistemas Distribuídos](https://github.com/Ruanlucas42/Laboratorio_Bully_Coordenacao) | Implementação acadêmica do algoritmo Bully em Python, com comunicação TCP, eleição de coordenador e detecção de indisponibilidade. Desenvolvido com Alice Egg. |
+| [Sistema de Xadrez em Java](https://github.com/Ruanlucas42/chess-system-java) | Projeto de programação em Java com implementação de um sistema de xadrez. |
+
+## Estudos atuais
+
+- Monitoramento e investigação de eventos com **Wazuh**.
+- Análise de logs em **Windows e Linux**.
+- Análise de tráfego com **Wireshark**.
+- Fundamentos de segurança e preparação para a **CompTIA Security+**.
+- Prática na trilha **SOC Level 1 do TryHackMe**.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/ruan-silva-50042622b/) · [E-mail](mailto:rulucasilva13@gmail.com)
